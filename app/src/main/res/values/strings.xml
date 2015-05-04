@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">LicensesDialogExample</string>
+    <string name="action_licenses">Open Source Licenses</string>
+    <string name="action_licenses_fragment">Open Source Licenses - Fragment</string>
+    <string name="action_licenses_alert">Open Source Licenses - Alert</string>
+
+</resources>
